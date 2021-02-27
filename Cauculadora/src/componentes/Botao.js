@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
 
     },
     operation: {
-        backgroundColor: '#fa8231',
+        backgroundColor: '#FF6400',
         color: '#fff'
 
     },
